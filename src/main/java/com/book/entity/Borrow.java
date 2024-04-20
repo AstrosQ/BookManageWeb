@@ -7,6 +7,6 @@ public class Borrow {
     int id;
     int book_id;
     String book_name;
-    int stduent_id;
-    String stduent_name;
+    int student_id;
+    String student_name;
 }
